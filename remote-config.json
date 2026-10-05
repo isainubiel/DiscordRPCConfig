@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "refreshSeconds": 60,
+  "custom": {
+    "gif": "https://TU-GIF-AQUI.gif",
+    "image": "",
+    "state": "Viviendo mi evento canónico",
+    "largeImageText": "Modo personalizable"
+  },
+  "original": {
+    "state": "Jugando",
+    "noGameDetails": "Sin juego activo",
+    "noGameState": "Disponible",
+    "largeImageText": "Modo original"
+  },
+  "ai": {
+    "enabled": true,
+    "model": "llama3.2:3b",
+    "maxWords": 10
+  }
+}
